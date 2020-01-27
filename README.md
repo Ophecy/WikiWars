@@ -1,6 +1,6 @@
 # WikiWars
 
-to run the game:
+To run the game:
 - `cd <GameFolder>`
 - `python main.py`
 
